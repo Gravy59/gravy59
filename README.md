@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there.
+<a href="https://discord.gg/aAb43uqFqQ">
+  <img align="left" alt="Gravy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCGYObde1pVB-_KEe8s77LXw">
+  <img align="left" alt="Gravy's YouTube Channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<br />
 
-<!--
-**Gravy59/gravy59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Gravy, a self taught back-end (soon to be full stack) developer.
 
-Here are some ideas to get you started:
+Current known languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></span>
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"></span>
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Query"></span>
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></span>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=gravy59&show_icons=true&theme=radical&bg_color=356,e96443,904e95&title_color=fff&text_color=fff")
