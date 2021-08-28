@@ -14,4 +14,4 @@ Current known languages:<br><br>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></span>
 <br><br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=gravy59&show_icons=true&theme=radical&bg_color=356,e96443,904e95&title_color=fff&text_color=fff")
+![My github stats](https://github-readme-stats.vercel.app/api?username=gravy59&show_icons=true&theme=graywhite&bg_color=ccc)
