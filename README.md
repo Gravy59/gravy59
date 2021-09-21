@@ -6,7 +6,7 @@
   <img align="left" alt="Gravy's YouTube Channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <br><br>
-Hello! I'm Gravy, a self taught back-end (soon to be full stack) developer.<br><br>
+Hello! I'm Gravy, a self taught front-end (soon to be full stack) developer.<br><br>
 Current known languages:<br><br>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></span>
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"></span>
