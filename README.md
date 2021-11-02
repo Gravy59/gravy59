@@ -22,7 +22,7 @@ Hello! I'm Gravy, and I have *no idea what I'm doing!*
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
 </span>
 
-### DevOps
+### Other
 <span>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">
