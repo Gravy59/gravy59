@@ -19,7 +19,6 @@ Hello! I'm Gravy, and I have *no idea what I'm doing!*
 ### Compiled
 <span>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
 </span>
 
 ### Other
