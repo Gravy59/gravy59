@@ -34,5 +34,5 @@ Hello! I'm Gravy, and I have *no idea what I'm doing!*
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravy59&show_icons=true&theme=graywhite&bg_color=eee&exclude_repo=Sniper)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravy59&show_icons=true&theme=graywhite&bg_color=eee&exclude_repo=gravy59.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gravy59&show_icons=true&theme=graywhite&bg_color=eee)
