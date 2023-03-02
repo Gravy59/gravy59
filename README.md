@@ -1,30 +1,27 @@
-Hello! I'm Gravy, and I have *no idea what I'm doing!*
+# Hi, I'm Gravy59 👋🏻
 
----
+I am a student who is passionate about web development and proficient in several web development frameworks such as React, Svelte, and Vue. I also have a strong understanding vanilla Python and its various standard libraries.
 
-<b>Things I'm Proficient At</b>
+Currently, I am expanding my horizons by learning new programming languages, including Ruby and Go. I am excited to apply my knowledge to create efficient and robust web applications that provide great user experiences.
 
-### Web
-<span>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Next.js" />
-</span>
+## Skills
+- Python (Vanilla / Only built-in libs)
+- React / Next
+- Svelte(Kit)
+- Vue 3
+- Nuxt (Slightly)
+- HTML/CSS/JavaScript/Typescript/Node
+- SQL databases (MySQL, Postgres)
+- Git
+- Basic Docker
+- Ruby (Ruby on Rails) (Learning)
+- Go (Learning)
 
-### Other
-<span>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node">
-</span>
+In the past I've dabbled with C# and .NET, Django, Hugo, and MediaWiki.
 
----
+## Projects
+- [scp-db](https://github.com/Gravy59/scp-db): A curation of [SCPs](https://scp-wiki.wikidot.com) using [Tailwind CSS](https://tailwindcss.com) and [Hugo](https://gohugo.io)
+- [WOPR-Console](https://github.com/Gravy59/WOPR-Console): Experience WarGames in ~~glorious~~ _endless_ if/else statements in C#
+- [grahm-institute](https://github.com/Gravy59/grahm-institute): An extremely WIP government website about the dangers of furries
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravy59&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![My github stats](https://github-readme-stats.vercel.app/api?username=gravy59&show_icons=true)
+That's all for now. See ya! ✌🏻
