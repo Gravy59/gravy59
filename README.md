@@ -20,8 +20,8 @@ Currently, I am expanding my horizons by learning new programming languages, inc
 In the past I've dabbled with C# and .NET, Django, Hugo, and MediaWiki.
 
 ## Projects
+- [petite-fullstack](https://github.com/Gravy59/petite-fullstack): A fullstack chat app in a single html file
 - [scp-db](https://github.com/Gravy59/scp-db): A curation of [SCPs](https://scp-wiki.wikidot.com) using [Tailwind CSS](https://tailwindcss.com) and [Hugo](https://gohugo.io)
 - [WOPR-Console](https://github.com/Gravy59/WOPR-Console): Experience WarGames in ~~glorious~~ _endless_ if/else statements in C#
-- [grahm-institute](https://github.com/Gravy59/grahm-institute): An extremely WIP government website about the dangers of furries
 
 That's all for now. See ya! ✌🏻
